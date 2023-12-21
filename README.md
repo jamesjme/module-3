@@ -1,4 +1,4 @@
-```markdown
+
 # Token Contract
 
 This Solidity contract, named "Token," is a basic ERC-20 token implementation. ERC-20 is a widely used standard on the Ethereum blockchain for fungible tokens.
